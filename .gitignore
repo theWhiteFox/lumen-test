@@ -1,5 +1,13 @@
 vendor/
+/build/logs
 node_modules/
+/build/coverage
+/app/tests/_log
+composer.phar
+/.idea
+/_ide_helper.php
+/app/config/packages
+/public/packages
 
 # Laravel 4 specific
 bootstrap/compiled.php
